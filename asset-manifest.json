@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.93acd4c9.chunk.css",
-    "main.js": "/static/js/main.3d936695.chunk.js",
+    "main.css": "/static/css/main.fe74c2a8.chunk.css",
+    "main.js": "/static/js/main.25cd1337.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.d1e7f49c.js",
-    "static/js/2.018676ae.chunk.js": "/static/js/2.018676ae.chunk.js",
+    "static/js/2.96bc03c2.chunk.js": "/static/js/2.96bc03c2.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.85e7f67c601a548b73b85bf667e2d522.js": "/precache-manifest.85e7f67c601a548b73b85bf667e2d522.js",
+    "precache-manifest.b53ec51852c5c7e99afd414bc71a0400.js": "/precache-manifest.b53ec51852c5c7e99afd414bc71a0400.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.018676ae.chunk.js.LICENSE.txt": "/static/js/2.018676ae.chunk.js.LICENSE.txt",
+    "static/js/2.96bc03c2.chunk.js.LICENSE.txt": "/static/js/2.96bc03c2.chunk.js.LICENSE.txt",
     "static/media/Acoustic Bass As3.flac": "/static/media/Acoustic Bass As3.55403ef4.flac",
     "static/media/Acoustic Bass C3.flac": "/static/media/Acoustic Bass C3.4a339f47.flac",
     "static/media/Acoustic Bass C5.flac": "/static/media/Acoustic Bass C5.7fd8d156.flac",
@@ -211,8 +211,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d1e7f49c.js",
-    "static/js/2.018676ae.chunk.js",
-    "static/css/main.93acd4c9.chunk.css",
-    "static/js/main.3d936695.chunk.js"
+    "static/js/2.96bc03c2.chunk.js",
+    "static/css/main.fe74c2a8.chunk.css",
+    "static/js/main.25cd1337.chunk.js"
   ]
 }
